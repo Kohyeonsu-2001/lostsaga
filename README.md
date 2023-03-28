@@ -1,5 +1,5 @@
 # lostsaga
 
 ##list of mario
-mario
-super mario
+-mario
+-super mario
